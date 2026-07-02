@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +31,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
