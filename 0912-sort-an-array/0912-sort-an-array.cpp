@@ -2,10 +2,11 @@ class Solution {
 public:
      
      void merge(vector<int> & nums,int left,int mid,int right){
-     
+    //   declear the temp variable 
       vector<int>temp;
        int i=left;
        int j=mid+1;
+       
       while(i<=mid && j<=right){
         if(nums[i]<=nums[j]){
             temp.push_back(nums[i]);
@@ -16,6 +17,7 @@ public:
             j++;
         }
       }
+      
       while(i<=mid){
         temp.push_back(nums[i]);
         i++;
