@@ -16,6 +16,7 @@ public:
     }
    
     int search(vector<int>& nums, int target) {
+        //   function call of bianry search
             return binarySearch(nums,0,nums.size()-1,target);
     }
 };
