@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0069-sqrtx) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0704-binary-search) |
