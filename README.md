@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
