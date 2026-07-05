@@ -2,7 +2,7 @@ class Solution {
 public:
     int countPrimes(int n) {
         if (n <= 2) return 0;
-
+        //  create a vector to store the default value
         vector<bool> isPrime(n, true);
         isPrime[0] = false;
         isPrime[1] = false;
