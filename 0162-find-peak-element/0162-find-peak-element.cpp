@@ -14,7 +14,7 @@ public:
                 right=mid;
             }
         }
-        return ans;
+        return left;
     }
 
 };
