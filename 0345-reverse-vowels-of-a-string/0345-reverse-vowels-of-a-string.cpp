@@ -21,10 +21,10 @@ public:
                 left++;
                 right--;
             }
-            if(!isVowel(s[left])){
+            else if(!isVowel(s[left])){
                 left++;
             }
-             if(!isVowel(s[right])){
+            else {
                 right--;
             }
         }
