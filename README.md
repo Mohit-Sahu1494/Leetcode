@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
