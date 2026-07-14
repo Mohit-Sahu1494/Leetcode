@@ -18,9 +18,7 @@ public:
           if(slow==fast) break;
        } 
        ListNode *temp=head;
-       if (fast == nullptr || fast->next == nullptr)
-    return nullptr;
-
+       if (fast == nullptr || fast->next == nullptr) return nullptr;
        while(slow!=temp){
          slow=slow->next;
          temp=temp->next;
