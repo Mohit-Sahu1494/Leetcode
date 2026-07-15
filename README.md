@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0441-arranging-coins) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
