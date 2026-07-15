@@ -23,7 +23,7 @@ int gcd(int a, int b) {
                 oddSum+=i;
              }
          }
-         return gcd(evenSum,oddSum);
+         return __gcd(evenSum,oddSum);
 
     }
 };
