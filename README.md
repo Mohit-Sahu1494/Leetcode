@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0441-arranging-coins) |
+| [2396-strictly-palindromic-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
