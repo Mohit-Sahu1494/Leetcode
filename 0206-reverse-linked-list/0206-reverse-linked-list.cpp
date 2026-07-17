@@ -1,7 +1,7 @@
 class Solution {
 public:
     ListNode* reverse(ListNode*head){
-        if( head==nullptr||head->next==nullptr){
+        if(head==nullptr||head->next==nullptr){
             return head;
         }
         ListNode* newList=reverse(head->next);
