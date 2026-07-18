@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
