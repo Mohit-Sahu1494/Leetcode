@@ -6,11 +6,8 @@ public:
         long long third = LLONG_MIN;
 
         for (int num : nums) {
-
-            // Ignore duplicates
             if (num == first || num == second || num == third)
                 continue;
-
             if (num > first) {
                 third = second;
                 second = first;
@@ -24,7 +21,6 @@ public:
                 third = num;
             }
         }
-
         return (third == LLONG_MIN) ? first : third;
     }
 };
