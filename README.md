@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2396-strictly-palindromic-number) |
