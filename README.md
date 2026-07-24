@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0412-fizz-buzz) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -234,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0412-fizz-buzz) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
