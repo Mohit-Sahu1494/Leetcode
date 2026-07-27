@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Brainteaser
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
