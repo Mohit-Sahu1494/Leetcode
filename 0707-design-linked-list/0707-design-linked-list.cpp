@@ -46,7 +46,6 @@ public:
             temp=temp->next;
         }
         temp->next=t;
-        temp=temp->next;
     }
 
     void addAtIndex(int index, int val) {
