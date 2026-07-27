@@ -67,7 +67,6 @@ public:
         Node *t=new Node(val);
         t->next=temp->next;
         temp->next=t;
-        temp=temp->next;
     }
 
     void deleteAtIndex(int index) {
