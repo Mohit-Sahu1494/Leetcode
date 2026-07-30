@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1544-make-the-string-great](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3174-clear-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3174-clear-digits) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1544-make-the-string-great) |
 | [3174-clear-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
