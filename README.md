@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1598-crawler-log-folder](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1544-make-the-string-great](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3174-clear-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3174-clear-digits) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1598-crawler-log-folder) |
 | [3174-clear-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
