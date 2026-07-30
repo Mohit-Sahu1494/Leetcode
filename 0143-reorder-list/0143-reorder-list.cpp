@@ -31,8 +31,5 @@ public:
         last->next = nxt;
         temp=nxt;
     }     
-
-
-
     }
 };
