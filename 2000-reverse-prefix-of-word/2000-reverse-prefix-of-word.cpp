@@ -12,7 +12,6 @@ public:
                break;
             }
         }
-        cout<<i<<endl;
         if(!found) return word;
         for(int j=0;j<i;j++){
             st.push(word[j]);
