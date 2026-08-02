@@ -12,8 +12,6 @@ public:
             mini = value;
         }
         else if (value < mini) {
-
-            // encoded = 2 * newMin - oldMin
             st.push(2LL * value - mini);
 
             mini = value;
