@@ -6,9 +6,7 @@ public:
        stack<int>st;
  
         for(int i=temperatures.size()-1;i>=0;i--){
-            while(!st.empty() &&temperatures[st.top()]<=temperatures[i]){
-                st.pop();
-            }
+            while(!st.empty() &&temperatures[st.top()]<=temperatures[i]) st.pop();
             if(!st.empty()){
                 res[i]=st.top()-i;
             }
