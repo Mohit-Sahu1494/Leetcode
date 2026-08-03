@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
