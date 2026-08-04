@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
