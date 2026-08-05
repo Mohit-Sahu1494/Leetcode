@@ -8,38 +8,29 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
+        
 
-        ListNode* prev = dummy;
-        ListNode* curr = head;
+        ListNode *curr=head;
+        ListNode *dummy=new ListNode(10);
+        dummy->next=head;
+       ListNode* prev=dummy;
 
-        while (curr != nullptr) {
-
-            // Duplicate mila
-            if (curr->next != nullptr && curr->val == curr->next->val) {
-
-                int value = curr->val;
-
-          
-                while (curr != nullptr && curr->val == value) {
-                    curr = curr->next;
+        while(curr!=nullptr){
+            if(curr->next!=nullptr && curr->val==curr->next->val){
+                int val=curr->val;
+                while(curr!=nullptr && curr->val==val){
+                    curr=curr->next;
                 }
-
-                // Unique part se connect karo
-                prev->next = curr;
+                prev->next=curr;
             }
-            else {
-                // Current node unique hai
-                prev = curr;
-                curr = curr->next;
+            else{
+                prev=curr;
+                curr=curr->next;
             }
         }
-
         return dummy->next;
     }
 };
