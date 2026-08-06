@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
