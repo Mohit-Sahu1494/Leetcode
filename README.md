@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0383-ransom-note) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0682-baseball-game) |
