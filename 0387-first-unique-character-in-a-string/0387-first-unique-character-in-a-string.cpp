@@ -1,15 +1,22 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        int freq[26]={0};
-         for(char ch:s){
+          vector<int>freq(26,0);
+          queue<char>q;
+
+          for(char ch:s){
             freq[ch-'a']++;
-         }
-        for(int i=0;i<s.length();i++){
-            if(freq[s[i]-'a']==1){
-                return i;
+            q.push(ch);
+            while(!q.empty() && freq[q.front()-'a']>1){
+                q.pop();
             }
-        }
-          return -1;
+          }
+          if(q.empty()) return -1;
+
+           char ans=q.front();
+           for(int i=0;i<s.length();i++){
+            if(s[i]==ans) return i;
+           }
+           return -1;
     }
 };
