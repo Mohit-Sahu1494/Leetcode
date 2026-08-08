@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0412-fizz-buzz) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -378,4 +381,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0901-online-stock-span) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
