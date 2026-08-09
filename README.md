@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0206-reverse-linked-list) |
