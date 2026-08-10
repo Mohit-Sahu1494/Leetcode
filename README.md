@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0283-move-zeroes) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
