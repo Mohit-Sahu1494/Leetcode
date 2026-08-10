@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
