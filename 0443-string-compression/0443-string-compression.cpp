@@ -2,6 +2,7 @@ class Solution {
 public:
     int compress(vector<char>& chars) {
         string ans="";
+        int index=0;
 
         for(int i=0;i<chars.size();i++){
             char ch=chars[i];
@@ -11,13 +12,16 @@ public:
     count++;
     left++;
 }
-           ans += ch;
-         ans += (count > 1 ? to_string(count) : "");
-            i=left-1;
+          chars[index++]=ch;
+          if(count>1){
+            string c=to_string(count);
+            for(int i=0;i<c.size();i++){
+                chars[index++]=c[i];
+            }
+          }
+          i=left-1;
+
         }
-        for(int i=0;i<ans.size();i++){
-            chars[i]=ans[i];
-        }
-        return ans.size();
+       return index;
     }
 };
