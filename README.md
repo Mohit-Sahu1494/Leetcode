@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1598-crawler-log-folder) |
