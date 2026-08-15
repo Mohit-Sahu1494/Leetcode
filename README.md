@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
