@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Queue
 |  |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0047-permutations-ii) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
