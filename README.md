@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Queue
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3174-clear-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3174-clear-digits) |
 ## Trie
