@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2485-find-the-pivot-integer](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3174-clear-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Interactive
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1652-defuse-the-bomb](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
 | ------- |
