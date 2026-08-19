@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
