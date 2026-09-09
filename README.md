@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0812-largest-triangle-area](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Doubly-Linked List
 |  |
@@ -538,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0729-my-calendar-i) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
