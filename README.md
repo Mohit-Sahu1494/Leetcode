@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1436-destination-city](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
