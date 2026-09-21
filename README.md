@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3524-find-x-value-of-array-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3903-smallest-stable-index-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
+| [3524-find-x-value-of-array-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Game Theory
 |  |
 | ------- |
