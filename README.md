@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3174-clear-digits) |
@@ -629,4 +631,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
