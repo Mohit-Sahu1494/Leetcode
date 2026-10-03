@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3903-smallest-stable-index-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0394-decode-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
