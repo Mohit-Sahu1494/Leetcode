@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0551-student-attendance-record-i) |
+| [0678-valid-parenthesis-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0213-house-robber-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -648,10 +651,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
