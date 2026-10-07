@@ -1,7 +1,7 @@
 class Solution {
 public:
  bool isSafe(vector<vector<char>>&board,int rows,int col){
-        // ek the row
+        // check the row
         for(int i=0;i<board[0].size();i++){
             if(board[rows][i]=='Q'){
                 return false;
