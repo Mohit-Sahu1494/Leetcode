@@ -1,26 +1,26 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1 || numRows >= s.size()) {
-    return s;
-}
+        if(numRows==1 || numRows>=s.size()){
+            return s;
+        }
         vector<string>ans(numRows);
-        int currentRows=0;
+        int currentRow=0;
         int direction=1;
         for(char ch:s){
-            ans[currentRows]+=ch;
-              if(currentRows==0){
+            ans[currentRow]+=ch;
+            if(currentRow==0){
                 direction=1;
-              }
-              else if(currentRows==numRows-1){
-                   direction=-1;
-              }
-              currentRows+=direction;
+            }
+            else if(currentRow==numRows-1){
+                direction=-1;
+            }
+            currentRow+=direction;
         }
-       string res="";
-       for(string str:ans){
-        res+=str;
-       }
-       return res;
+        string res;
+        for(string str:ans){
+            res+=str;
+        }
+        return res;
     }
 };
