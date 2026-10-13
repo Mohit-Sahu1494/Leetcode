@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0598-range-addition-ii) |
 | [0622-design-circular-queue](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0704-binary-search) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0504-base-7) |
+| [0598-range-addition-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0812-largest-triangle-area) |
