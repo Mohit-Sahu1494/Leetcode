@@ -4,7 +4,6 @@ public:
         int count=0;
       vector<vector<int>>matrix(m,vector<int>(n,0));
 
-
         for(int i=0;i<indices.size();i++){
             int rows=indices[i][0];
             int cols=indices[i][1];
