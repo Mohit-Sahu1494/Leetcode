@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3467-transform-array-by-parity](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3467-transform-array-by-parity](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3467-transform-array-by-parity](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
