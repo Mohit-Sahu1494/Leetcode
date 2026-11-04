@@ -7,9 +7,7 @@ public:
     bool isBalanced(TreeNode* root) {
         if(root==nullptr) return true;
        int leftHeight=hight(root->left);
-       cout<<"left heihgt : "<<leftHeight<<endl;
        int rightHeight=hight(root->right);
-         cout<<"right heihgt : "<<rightHeight<<endl;
        if(abs(leftHeight-rightHeight)>1){
         return false;
        }
