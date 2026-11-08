@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Queue
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -784,9 +788,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
