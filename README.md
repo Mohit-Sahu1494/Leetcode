@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
