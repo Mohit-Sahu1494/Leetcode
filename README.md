@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2043-simple-bank-system) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
