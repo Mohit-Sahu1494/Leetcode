@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0704-binary-search) |
+| [0710-random-pick-with-blacklist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0729-my-calendar-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0504-base-7) |
 | [0598-range-addition-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0710-random-pick-with-blacklist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0728-self-dividing-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0877-stone-game) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0575-distribute-candies) |
+| [0710-random-pick-with-blacklist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0710-random-pick-with-blacklist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0704-binary-search) |
+| [0710-random-pick-with-blacklist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0729-my-calendar-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -839,4 +844,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Randomized
+|  |
+| ------- |
+| [0710-random-pick-with-blacklist](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 <!---LeetCode Topics End-->
