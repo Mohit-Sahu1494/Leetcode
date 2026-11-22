@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0739-daily-temperatures) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
