@@ -20,7 +20,6 @@ public:
 
 class Solution {
 public:
-int maxi=0;
     int maxDepth(Node* root) {
         if(root==nullptr) return 0;
         int res=0;
