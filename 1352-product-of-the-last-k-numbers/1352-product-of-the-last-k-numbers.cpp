@@ -2,20 +2,23 @@ class ProductOfNumbers {
 public:
    vector<int>st;
     ProductOfNumbers() {
-    
+       st.push_back(1);
     }
     
     void add(int num) {
-           st.push_back(num);
+        if(num==0){
+            st.clear();
+            st.push_back(1);
+        }
+        else{
+        st.push_back(st.back()*num);
+        }
+         
     }
     
     int getProduct(int k) {
-         int product=1;
-        int n=st.size()-k;
-        for(int i=n;i<st.size();i++){
-            product*=st[i];
-        }
-      return product;
+        if(k>=st.size())return 0;
+        return st.back()/st[st.size()-1-k];
     }
 };
 
