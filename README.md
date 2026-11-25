@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0835-image-overlap) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -862,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Mohit-Sahu1494/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Randomized
 |  |
